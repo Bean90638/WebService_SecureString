@@ -1,0 +1,16 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "C:/Users/User/Desktop/TestWebService_2.xml"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, WS2"
+    ],
+    "targetFramework": "net7.0",
+    "typeReuseMode": "All"
+  }
+}
